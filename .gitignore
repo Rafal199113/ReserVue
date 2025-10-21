@@ -19,7 +19,9 @@ xmlrpc.php
 # Foldery WordPress core
 wp-admin/
 wp-includes/
-wp-content/
+wp-content/themes/twentytwentyfive
+wp-content/plugins/akismet
+
 
 # Node.js
 node_modules/
